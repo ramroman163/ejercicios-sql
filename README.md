@@ -1,1 +1,3 @@
-"# Ejercicios SQL" 
+# Ejercicios SQL
+
+Realizados por Román Martinez
